@@ -8,12 +8,15 @@
 #### pip install -r requirements.txt
 
 ## DVC Commands
-#### git init
+#### git init : Initiatize git
 
-#### dvc init
+#### dvc init : initialize dvc in git
 
-#### dvc repro
+#### dvc repro : To execute my pipelines
 
-#### dvc dag
+#### dvc dag : To see the Pipeline diagram 
 
-#### dvc metrics show
+#### dvc metrics show : To open the metrics jason created in model evaluation pipeline
+
+
+## Link to EURON git repository for this lecture: https://github.com/entbappy/Ultimate-MLOps-Full-Course/blob/fe82aa97597e69084bb87c80a35adc19391908d2/ML-Pipeline-using-DVC/README.md
