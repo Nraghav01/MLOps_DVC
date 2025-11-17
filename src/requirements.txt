@@ -1,0 +1,9 @@
+#This file has all packages we need to execute all pipelines | -e . looks for setup .py file and install src as my local package
+scikit-learn
+xgboost
+nltk
+pandas
+numpy
+dvc
+PyYAML
+-e .
